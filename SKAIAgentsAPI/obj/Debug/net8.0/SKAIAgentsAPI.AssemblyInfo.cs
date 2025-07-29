@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SKAIAgentsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7285ade5597362b649c1a8a93e37e19984cad61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9671fa0e112e8e638f3846ab062a64121acf9381")]
 [assembly: System.Reflection.AssemblyProductAttribute("SKAIAgentsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SKAIAgentsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
